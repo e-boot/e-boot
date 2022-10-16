@@ -1,4 +1,6 @@
-- 🤖 Hi, I’m @e-boot
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML,CSS,Javascript.
+- 🤖 Hi @e-boot here !
 
+
+👀  I’m trying to improve in web development as much as possible.
+
+💻 Mostly HTML, Css, Javascript.
