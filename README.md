@@ -1,7 +1,5 @@
 ## Hi there , i'm eboot🖖
-  <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRnM2l3eng3am8xaTVzdW8yY2phY3JwZHkwdDFnOGkyM3pxYzhrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300"/>
-</div>
+
 
 🔭 Currently on a fullstack development course at CodeforAll.
 
