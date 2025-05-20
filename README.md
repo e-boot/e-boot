@@ -2,8 +2,10 @@
 
 ### 🏆 About Me:
 - Software Developer from Portugal 🇵🇹  
-- Arch Linux BTW
-- 🎮 Gaming & Music 
+- Arch linux user BTW
+
+
+
 
 ---
 ### 🛠️ Languages & Tools
@@ -20,5 +22,6 @@
 
 ### 🤝 Let’s Connect!
 
-- 📫 Feel free to reach out via **[Email](mailto:eliobotas@gmail.com)**  
-- 💬 Join the conversation on **[LinkedIn](https://www.linkedin.com/in/eliobotas)**  
+- **[Email](mailto:eliobotas@gmail.com)**  
+- **[LinkedIn](https://www.linkedin.com/in/eliobotas)**  
+- **[TryHackMe](https://tryhackme.com/p/eboot)**
