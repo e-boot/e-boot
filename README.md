@@ -24,4 +24,4 @@
 
 - **[Email](mailto:eliobotas@gmail.com)**  
 - **[LinkedIn](https://www.linkedin.com/in/eliobotas)**  
-- **[TryHackMe](https://tryhackme.com/p/eboot)**
+
